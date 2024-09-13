@@ -1,0 +1,8 @@
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center; /*centralizar horizontal*/
+    align-items: center;
+    background-color: rgba(15, 15, 252, 0.651);
+}
+
